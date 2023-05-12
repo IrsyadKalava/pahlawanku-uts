@@ -1,8 +1,6 @@
 package com.irsyadikhsanudin201011400947.pahlawanku;
 
 import android.os.Bundle;
-import com.google.android.material.floatingactionbutton.FloatingActionButton;
-import com.google.android.material.snackbar.Snackbar;
 import com.google.android.material.tabs.TabLayout;
 
 import androidx.fragment.app.Fragment;
@@ -12,13 +10,7 @@ import androidx.viewpager.widget.ViewPager;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.util.Log;
-import android.view.Menu;
-import android.view.MenuItem;
-import android.view.View;
 import android.widget.Toast;
-
-import com.irsyadikhsanudin201011400947.pahlawanku.ui.main.SectionsPagerAdapter;
-import com.irsyadikhsanudin201011400947.pahlawanku.databinding.ActivityMainBinding;
 
 import java.util.ArrayList;
 import java.util.List;
